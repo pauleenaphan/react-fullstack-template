@@ -10,7 +10,7 @@
 ```
 cd frontend/backend
 npm i
-npm run dev/ command to run your chosen backend
+npm run dev/command to run your chosen backend
 ```
 
 I like to have a front and backend folder in my project 
